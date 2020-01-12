@@ -14,8 +14,8 @@
     <color name="omni_color5">@*android:color/accent_device_default_light</color>
     <color name="omni_color4">@*android:color/accent_device_default_dark</color>
     <color name="omni_color3">#80eeeeee</color>
-    <color name="omni_color1">@*android:color/primary_dark_device_default_settings</color>
-    <color name="omni_color2">@*android:color/primary_device_default_settings</color>
+    <color name="omni_color1">@*android:color/primary_device_default_settings</color>
+    <color name="omni_color2">@*android:color/primary_dark_device_default_settings</color>
     <color name="omni_color7">@*android:color/background_floating_device_default_dark</color>
     <color name="omni_text1">#ffffffff</color>
     <color name="omni_text2">#ffeeeeee</color>
@@ -217,7 +217,7 @@
     <color name="navigation_drawer_background_color">@color/omni_color2</color>
 
     <!-- Background color for the current selected item in the navigation drawer -->
-    <color name="drawer_selected_color">@color/omni_color1</color>
+    <color name="drawer_selected_color">@color/omni_color2</color>
 
     <!-- Highlight color used in places such as ripples -->
     <color name="control_highlight_color">#1Affffff</color>
